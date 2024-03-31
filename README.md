@@ -21,7 +21,7 @@ Git
 
 ### Installation instruction
 ```
-git clone 
+git clone git@github.com:mvthiora21/SA.02-WK2-Code-Challenge.git
 
 ```
 
